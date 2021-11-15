@@ -1,4 +1,4 @@
-﻿drop database if exists oa;
+drop database if exists oa;
 
 create database oa;
 use oa;
@@ -93,7 +93,7 @@ insert into department values('10001','总经理办公室','星星大厦E座1201
 insert into department values('10002','财务部','星星大厦E座1202');
 insert into department values('10003','事业部','星星大厦E座1101');
 
-insert into employee values('10001','000000','Oasis','10001','系统管理员');
-insert into employee values('10002','000000','孙尚香','10002','收单员');
-insert into employee values('10003','000000','关羽','10003','审核负责人');
-insert into employee values('10004','000000','周仓','10003','员工');
+insert into employee values('10001','000000','Leo','10001','系统管理员');
+insert into employee values('10002','000000','Dio','10002','收单员');
+insert into employee values('10003','000000','Jotaro','10003','审核负责人');
+insert into employee values('10004','000000','Jolyne','10003','员工');
